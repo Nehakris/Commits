@@ -24,6 +24,6 @@ public class TestCase2 {
 		String title= driver.getTitle();
 		Assert.assertEquals(title, "GitHub");
 		
-		System.out.println("Continue with test code..");
+		System.out.println("Welcome");
 	}
 }
